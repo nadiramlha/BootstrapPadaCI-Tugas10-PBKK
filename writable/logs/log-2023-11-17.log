@@ -1,0 +1,54 @@
+CRITICAL - 2023-11-17 14:11:45 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 14:13:43 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 14:14:06 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 14:14:30 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 14:17:55 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-17 14:18:00 --> Invalid file: "layout-static.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('layout-static.php')
+ 2 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('layout-static', [], true)
+ 3 APPPATH\Controllers\Components.php(19): view('layout-static')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Components->layoutStatic()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Components))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
